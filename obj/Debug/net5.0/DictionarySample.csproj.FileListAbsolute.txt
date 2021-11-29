@@ -1,0 +1,16 @@
+/home/esta/Documents/dotnet-new/DictionarySample/obj/Debug/net5.0/DictionarySample.csproj.AssemblyReference.cache
+/home/esta/Documents/dotnet-new/DictionarySample/obj/Debug/net5.0/DictionarySample.GeneratedMSBuildEditorConfig.editorconfig
+/home/esta/Documents/dotnet-new/DictionarySample/obj/Debug/net5.0/DictionarySample.AssemblyInfoInputs.cache
+/home/esta/Documents/dotnet-new/DictionarySample/obj/Debug/net5.0/DictionarySample.AssemblyInfo.cs
+/home/esta/Documents/dotnet-new/DictionarySample/obj/Debug/net5.0/DictionarySample.csproj.CoreCompileInputs.cache
+/home/esta/Documents/dotnet-new/DictionarySample/bin/Debug/net5.0/DictionarySample
+/home/esta/Documents/dotnet-new/DictionarySample/bin/Debug/net5.0/DictionarySample.deps.json
+/home/esta/Documents/dotnet-new/DictionarySample/bin/Debug/net5.0/DictionarySample.runtimeconfig.json
+/home/esta/Documents/dotnet-new/DictionarySample/bin/Debug/net5.0/DictionarySample.runtimeconfig.dev.json
+/home/esta/Documents/dotnet-new/DictionarySample/bin/Debug/net5.0/DictionarySample.dll
+/home/esta/Documents/dotnet-new/DictionarySample/bin/Debug/net5.0/ref/DictionarySample.dll
+/home/esta/Documents/dotnet-new/DictionarySample/bin/Debug/net5.0/DictionarySample.pdb
+/home/esta/Documents/dotnet-new/DictionarySample/obj/Debug/net5.0/DictionarySample.dll
+/home/esta/Documents/dotnet-new/DictionarySample/obj/Debug/net5.0/ref/DictionarySample.dll
+/home/esta/Documents/dotnet-new/DictionarySample/obj/Debug/net5.0/DictionarySample.pdb
+/home/esta/Documents/dotnet-new/DictionarySample/obj/Debug/net5.0/DictionarySample.genruntimeconfig.cache
